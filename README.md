@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-vim and bash settings
+vimrc and bashrc
